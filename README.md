@@ -1,4 +1,4 @@
 # Number-Guesser-App
-C# 
-Console 
-Number is Fixed
+C# | 
+Console | 
+Number is Fixed 
